@@ -1,6 +1,6 @@
 # Hi
 # Hello
-
+# trying out a change from GitHub Repo to pull from cmd
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 Headers
 # This is an <h1> tag
